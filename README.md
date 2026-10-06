@@ -14,7 +14,7 @@ A responsive HTML, CSS and JavaScript starter portfolio website.
 
 ## Before publishing
 1. The header and footer use the supplied TITFAZ logo mark at `images/titfaz-mark.png`, paired with readable company text.
-2. The hero and project gallery use the construction photos in `images/`. Confirm they show TITFAZ work and update the gallery descriptions if needed.
+2. The hero and project gallery feature TITFAZ construction and civil works. Keep project descriptions accurate as the portfolio is updated.
 3. Service-card photos are illustrative. The paving driveway photo is by Catalano Concrete, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paver_Driveway_06.JPG), and is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Replace illustrative photos with TITFAZ photos if available and confirm image permissions.
 4. The supplied phone number is displayed as `078 370 5199`; WhatsApp uses `263783705199`. Verify this is the intended public company number before launch.
 5. The location currently says `Zimbabwe`; replace it with the correct city or office address if the company wants to publish that information.
