@@ -17,6 +17,16 @@ navLinks?.querySelectorAll("a").forEach((link) => {
   });
 });
 
+document.querySelectorAll('a[href="#top"], .back-top').forEach((link) => {
+  link.addEventListener("click", (event) => {
+    event.preventDefault();
+    window.scrollTo({ top: 0, left: 0, behavior: "auto" });
+    if (window.location.hash === "#top") {
+      history.replaceState(null, "", window.location.pathname + window.location.search);
+    }
+  });
+});
+
 // Project gallery category filters
 const filterButtons = document.querySelectorAll(".filter-button");
 const projectCards = document.querySelectorAll(".project-card");
