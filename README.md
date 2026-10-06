@@ -17,7 +17,7 @@ A responsive HTML, CSS and JavaScript starter portfolio website.
 2. The hero and project gallery feature TITFAZ construction and civil works. Keep project descriptions accurate as the portfolio is updated.
 3. Most service-card photos are illustrative; the plumbing card uses `images/images.jfif`. The paving driveway photo is by Catalano Concrete, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paver_Driveway_06.JPG), and is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Confirm image permissions before publishing.
 4. The supplied phone number is displayed as `078 370 5199`; WhatsApp uses `263783705199`. Verify this is the intended public company number before launch.
-5. The location currently says `Zimbabwe`; replace it with the correct city or office address if the company wants to publish that information.
+5. The company email is displayed as `faraikaonza@gmail.com`. The location currently says `Zimbabwe`; replace it with the correct city or office address if the company wants to publish that information.
 6. The enquiry form opens WhatsApp with a prepared message. Visitors must review and send it in WhatsApp. The website does not store submissions.
 7. Confirm contact details and any claims about experience, licences, safety or project results before launch.
 
@@ -34,3 +34,5 @@ Service photos and Google Fonts are loaded from external services, so an interne
 
 ## Contact form note
 The form requires the visitor's name, email, service and project details, then opens WhatsApp to `263783705199` with a prefilled enquiry. It does not send automatically or save the data.
+
+The footer includes a discreet website credit for Crestline Systems.
